@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T10:04:13.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.8" etag="6AOknj4DkOGMuYeXbW4w" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T11:06:23.628Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GMYQQUBaINlz4bWDpKB6" version="24.0.8" type="github">
   <diagram name="Página-1" id="AevKswtPFHskVXWzHPIH">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-2" value="&lt;h2&gt;Existing technical environment&amp;nbsp; On-Premises&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="440" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-3" value="multi-national medical&lt;br/&gt;offices&amp;nbsp;&lt;div&gt;hospitals&lt;/div&gt;&lt;div&gt;insurance providers.&amp;nbsp;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="goCDnW-3eaL1kC3TrWZv-6" target="goCDnW-3eaL1kC3TrWZv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-6" value="Kubernetes" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-7" value="web-based application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-9" value="MySQL&amp;nbsp;&lt;div&gt;MS SQL Server&amp;nbsp;&lt;/div&gt;&lt;div&gt;Redis&lt;/div&gt;&lt;div&gt;MongoDB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-11" value="EHR Healthcare Case Study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#331A00;fontColor=#FFFFFF;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="399" y="-80" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-12" value="legacy file&amp;nbsp;&lt;div&gt;API-based integrations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-13" value="MS Active Directory" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.ms_active_directory_2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-14" value="Monitoring&lt;div&gt;Open Source Tools&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.monitoring;" vertex="1" parent="1">
+          <mxGeometry x="321" y="650" width="78" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-15" value="&lt;div&gt;Business requirements&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BR1: On-board new insurance providers as quickly as possible.&lt;br&gt;BR2: Provide a minimum 99.9% availability for all customer-facing systems.&lt;br&gt;BR3: Provide centralized visibility and proactive action on system performance and usage.&lt;br&gt;BR4: Increase ability to provide insights into healthcare trends.&lt;br&gt;BR5: Reduce latency to all customers.&lt;br&gt;BR6: Maintain regulatory compliance.&lt;br&gt;BR7: Decrease infrastructure administration costs.&lt;br&gt;BR8: Make predictions and generate reports on industry trends based on provider data." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="870" width="500" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-16" value="Technical requirements&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TR1: Maintain legacy interfaces to insurance providers with connectivity to both on-premises&lt;br&gt;&lt;/div&gt;&lt;div&gt;systems and cloud providers.&lt;br&gt;TR2:&amp;nbsp;Provide a consistent way to manage customer-facing applications that are&lt;br&gt;container-based.&lt;br&gt;TR3:&amp;nbsp;Provide a secure and high-performance connection between on-premises systems and&lt;br&gt;Google Cloud.&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;TR4: Provide consistent logging, log retention, monitoring, and alerting capabilities.&lt;br&gt;Maintain and manage multiple container-based environments.&lt;br&gt;TR5:&amp;nbsp;Dynamically scale and provision new environments.&lt;br&gt;TR6:&amp;nbsp;Create interfaces to ingest and process data from new providers.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="670" y="880" width="500" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-17" value="&lt;h2&gt;Google Cloud Environment&lt;/h2&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="679" y="240" width="571" height="571" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="goCDnW-3eaL1kC3TrWZv-3" target="goCDnW-3eaL1kC3TrWZv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="goCDnW-3eaL1kC3TrWZv-18" target="goCDnW-3eaL1kC3TrWZv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-18" value="Insurance providers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
