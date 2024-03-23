@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T14:42:40.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ChOq8LVULvnaB1oVW0hj" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T14:43:16.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UQFKE9rKGUermW6cLHqT" version="24.0.8" type="github">
   <diagram name="Página-1" id="AevKswtPFHskVXWzHPIH">
     <mxGraphModel dx="2154" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="goCDnW-3eaL1kC3TrWZv-9" value="MySQL&amp;nbsp;&lt;div&gt;MS SQL Server&amp;nbsp;&lt;/div&gt;&lt;div&gt;Redis&lt;/div&gt;&lt;div&gt;MongoDB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="500" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="goCDnW-3eaL1kC3TrWZv-11" value="EHR Healthcare Case Study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#331A00;fontColor=#FFFFFF;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="399" y="-80" width="360" height="60" as="geometry" />
+        <mxCell id="goCDnW-3eaL1kC3TrWZv-11" value="EHR Healthcare Case Study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#331A00;fontColor=#FFFFFF;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="-90" width="496" height="60" as="geometry" />
         </mxCell>
         <mxCell id="goCDnW-3eaL1kC3TrWZv-12" value="legacy file&amp;nbsp;&lt;div&gt;API-based integrations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="150" height="60" as="geometry" />
