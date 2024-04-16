@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T14:05:45.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="YXoN_NxIy7EehSBMilgN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T14:22:09.590Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fjuSL7wOqB0nZVIDh9a0" version="24.2.3" type="github">
   <diagram name="Página-1" id="5paV8PJgCoDb8sMaW7gP">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HBVQMEaYpgBB0zVPy3pP-1" value="Helicopter Racing League" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="620" y="10" width="386" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBVQMEaYpgBB0zVPy3pP-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Solution concept&lt;/h1&gt;&lt;p&gt;SC1: use of managed AI and ML services to facilitate race predictions&lt;/p&gt;&lt;p&gt;SC2: they wnat to move the serving of their content, both real-time and recorded closer to their users&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HBVQMEaYpgBB0zVPy3pP-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Business requirements&lt;/h1&gt;&lt;p&gt;BR1: Support ability to expose the precictive models to partners.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR2: Increase predictive capabilities during and before races:&amp;nbsp; Race results; Mechanical failures; Crowd sentiment.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR3: Increase telemtry and create additional insights.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR4: Measure fan engagement with new predictions.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR5: Enhance global availability and quality of the broadcasts.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR6: Increase the number of concurrent viewers.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR7: Minimize operational complexity.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR8: Ensure compliance with regulations.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BR9: Create a mechandising revenue stream.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="HBVQMEaYpgBB0zVPy3pP-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Technical requirements&lt;/h1&gt;&lt;p&gt;TR1: Maintain or increase prediction trhoughput and accuracy.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TR2: Reduce viewer latency.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TR3: Increase transcoding performance.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TR4: Create real-time analytics of viewer consumption patterns and engagement.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TR5: Create a data mart to enable processing of large volumes of race data.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="533" width="370" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
