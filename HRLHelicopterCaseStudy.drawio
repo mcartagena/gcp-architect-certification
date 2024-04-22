@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T15:07:41.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EuF1jUD-7F6LgHkS8qzy" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T15:08:54.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jAAyNKYqY5cKjxVoblbJ" version="24.2.5" type="github">
   <diagram name="Página-1" id="5paV8PJgCoDb8sMaW7gP">
     <mxGraphModel dx="1194" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,6 +296,9 @@
         </mxCell>
         <mxCell id="oKV-AD8EVL7LSy8nF6wr-57" value="Sensors" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
           <mxGeometry x="654" y="1133" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKV-AD8EVL7LSy8nF6wr-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xxOMbFyrMPM65AWnsfCO-20" target="oKV-AD8EVL7LSy8nF6wr-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
